@@ -38,8 +38,8 @@ Deep learning is powerful for sequential text classification tasks.
 Proper preprocessing significantly boosts model performance.
 
 ## Author
-Losheni
-Student at Singapore Institute of Management
-Reach me at: losheni.ms@gmail.com
+- Losheni
+- Student at University of London , Singapore Institute of Management
+- Reach me at: losheni.ms@gmail.com
 
 
